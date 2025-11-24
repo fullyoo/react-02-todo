@@ -61,6 +61,7 @@
 
 .btn:hover {
   border: 1px solid #ddd;
+  background-color: #8a2ce2;
 }
 
 .todo-list li {
